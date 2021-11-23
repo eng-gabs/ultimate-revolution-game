@@ -1,3 +1,1 @@
-# Ultimate Revolution
-
-Esse jogo é o bicho
+An example of a basic platformer (Mario-like) game made with GDevelop.
